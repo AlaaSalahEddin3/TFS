@@ -11,6 +11,7 @@ namespace testGitt
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Alaa");
+            Console.WriteLine("Ading Third Commit");
         }
     }
     class newClass
