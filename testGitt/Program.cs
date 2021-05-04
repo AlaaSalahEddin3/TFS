@@ -13,4 +13,8 @@ namespace testGitt
             Console.WriteLine("Hello Alaa");
         }
     }
+    class newClass
+    {
+
+    }
 }
