@@ -10,6 +10,7 @@ namespace testGitt
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello Alaa");
         }
     }
 }
