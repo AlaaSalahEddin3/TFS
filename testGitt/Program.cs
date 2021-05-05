@@ -12,6 +12,8 @@ namespace testGitt
         {
             Console.WriteLine("Hello Alaa");
             Console.WriteLine("Ading Third Commit");
+               Console.WriteLine("third Phrase from remote repo");
+            
         }
     }
     class newClass
